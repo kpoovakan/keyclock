@@ -2370,7 +2370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 40.64 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -2450,7 +2450,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
 			(at 207.01 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -2628,7 +2628,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:Texas_RVA_VQFN-16-1EP_3.5x3.5mm_P0.5mm_EP2.14x2.14mm_ThermalVias"
+		(property "Footprint" "Buzzer_Beeper:Buzzer_12x9.5RM7.6"
 			(at 212.725 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -2864,7 +2864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 44.45 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -2898,10 +2898,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "f6573aaa-53c6-4354-8fa2-f1edb5b99be8")
+			(uuid "f6573aaa-53c6-4354-8fa2-f1edb5b99be9")
 		)
 		(pin "1"
-			(uuid "feb8e630-6807-41cf-b69b-e6b207c1065f")
+			(uuid "feb8e630-6807-41cf-b69b-e6b207c10660")
 		)
 		(instances
 			(project "keyclock"
@@ -2946,7 +2946,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 251.46 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -3022,7 +3022,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 251.46 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -3098,7 +3098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD"
+		(property "Footprint" "footprints:XIAO-ESP32-C3-DIP"
 			(at 102.362 129.794 0)
 			(hide yes)
 			(show_name no)
@@ -3318,7 +3318,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 251.46 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -3548,7 +3548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 36.83 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3582,10 +3582,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "f6573aaa-53c6-4354-8fa2-f1edb5b99be8")
+			(uuid "f6573aaa-53c6-4354-8fa2-f1edb5b99bea")
 		)
 		(pin "1"
-			(uuid "feb8e630-6807-41cf-b69b-e6b207c1065f")
+			(uuid "feb8e630-6807-41cf-b69b-e6b207c10661")
 		)
 		(instances
 			(project "keyclock"
@@ -3628,7 +3628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 41.91 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -3662,10 +3662,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "f6573aaa-53c6-4354-8fa2-f1edb5b99be8")
+			(uuid "f6573aaa-53c6-4354-8fa2-f1edb5b99beb")
 		)
 		(pin "1"
-			(uuid "feb8e630-6807-41cf-b69b-e6b207c1065f")
+			(uuid "feb8e630-6807-41cf-b69b-e6b207c10662")
 		)
 		(instances
 			(project "keyclock"
@@ -3866,7 +3866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 252.73 111.76 0)
 			(hide yes)
 			(show_name no)
